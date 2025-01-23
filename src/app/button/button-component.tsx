@@ -15,6 +15,6 @@ export default function ButtonStyled({
         "bg-blue-500 text-white hover:bg-blue-700": kind === "reference",
       })}
       {...props}
-    />
-  );
+      />
+    );
 }
