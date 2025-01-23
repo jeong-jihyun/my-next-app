@@ -9,7 +9,7 @@ const ProfilePicture = ({ src }: ProfilePictureProps) => {
       alt="profile"
       width={96}
       height={96}
-      className="border-2 border-gray-300 rounded-full"
+      className="border-1 border-gray-300 rounded-full"
     />
   );
 };
