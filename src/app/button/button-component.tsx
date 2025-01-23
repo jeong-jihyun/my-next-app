@@ -7,6 +7,7 @@ export default function ButtonStyled({
   kind?: "default" | "important" | "reference";
 }) {
   return (
+    // Tailwind CSS IntelliSense 설치 필요
     <button
       className={clsx(`rounded-lg px-3 py-1 text-sm font-medium m-1`, {
         "bg-gray-500 text-white hover:bg-gray-700": kind === "default",
