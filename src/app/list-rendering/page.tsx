@@ -11,7 +11,7 @@ export default function Page() {
     <div className="py-24 bg-white sm:py-32">
       <div className="grid px-6 mx-auto max-w-7xl gap-x-8 gap-y-20 lg:px-8 xl:grid-cols-3">
         <div className="max-w-2xl">
-          <h2 className="text-3xl font-bold sm:text-4xl">
+          <h2 className="text-3xl font-bold sm:text-3xl">
             리더쉽 팀을 소개합니다.
           </h2>
           <p className="mt-6 text-lg leading-8 text-gray-600">
